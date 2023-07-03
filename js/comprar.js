@@ -137,7 +137,7 @@ productList.push({
 productList.push({
     name: 'Guitarra Epiphone',
     price: 140,
-    image: '../imagenes/Epiphone.jpg',
+    image: '../imagenes/Guitarra Epiphone.jpg',
     unidades :"",
 });
 productList.push({
@@ -153,9 +153,9 @@ productList.push({
     unidades :"",
 });
 productList.push({
-    name: 'Microfono',
+    name: 'Micrófono',
     price: 200,
-    image: '../imagenes/Micrófono.jpg',
+    image: '../imagenes/Microfono.jpg',
     unidades :"",
 });
 productList.push({
@@ -165,7 +165,7 @@ productList.push({
     unidades :"",
 });
 productList.push({
-    name: 'Saxofon',
+    name: 'Saxofón',
     price: 350,
     image: '../imagenes/Saxofon.jpg',
     unidades :"",
@@ -177,7 +177,7 @@ productList.push({
     unidades :"",
 });
 productList.push({
-    name: 'Bateria',
+    name: 'Batería',
     price: 720,
     image: '../imagenes/Bateria.jpg',
     unidades :"",

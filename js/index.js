@@ -21,6 +21,17 @@ function alta_usuario() {
 
         // console.log(nombre_usuario.value);
         // console.log(pass_usuario.value);
+        Toastify({
+            text: "¡Usuario Registrado!",
+            duration: 3000,
+            position:"center",
+            style:{
+                fontSize: "1.3rem",
+                fontFamily: 'Quicksand',
+                color : '#FFFFFF',
+                background:'#00757A',
+            }
+        }).showToast();
 
         usuario = {
             nombre: nombre_usuario.value,

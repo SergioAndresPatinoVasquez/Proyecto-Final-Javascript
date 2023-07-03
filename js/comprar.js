@@ -137,7 +137,7 @@ productList.push({
 productList.push({
     name: 'Guitarra Epiphone',
     price: 140,
-    image: '../imagenes/Guitarra Epiphone.jpg',
+    image: '../imagenes/Epiphone.jpg',
     unidades :"",
 });
 productList.push({
@@ -189,9 +189,9 @@ productList.push({
     unidades :"",
 });
 productList.push({
-    name: 'Guitarra Gybson Eléctrica',
+    name: 'Guitarra Gybson',
     price: 250,
-    image: '../imagenes/Gybson Eléctrica.jpg',
+    image: '../imagenes/Gybson Electrica.jpg',
     unidades :"",
 });
 productList.push({
